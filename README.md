@@ -37,7 +37,7 @@ import dragon_e as de
 im = de.imageencrypt("Don't share this info with anybody!", "V3ry57r0ngS3cuR17yK3Y")
 im.show()
 ```
-The above code would display this image: <img src="./test1.PNG"> which could be decrypted with `imagedecrypt`.
+The above code would display this image: <img src="./screenshots/test1.PNG"> which could be decrypted with `imagedecrypt`.
 ## Decrypting
 ```py
 import dragon_e as de
